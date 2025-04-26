@@ -1,0 +1,7 @@
+.banner{
+    background-image: url("./grupo.jpeg");
+    position: top center;
+    padding: 25%;
+    background-size: cover;
+    background-attachment: fixed;
+}
